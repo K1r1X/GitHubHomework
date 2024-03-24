@@ -7,6 +7,5 @@ int main(void)
 {
 	std::cout << "It's my program!\nI modified it and added author's name!\nVersion: " << VERSION
 		 << std::endl << "Author: " << AUTHOR << std::endl;
-
 	return EXIT_SUCCESS;
 }
